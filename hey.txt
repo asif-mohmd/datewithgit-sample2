@@ -3,3 +3,5 @@ hey friends
 This is asif
 
 modified for git push
+
+modified for git clone
